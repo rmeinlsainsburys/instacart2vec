@@ -1,0 +1,22 @@
+{
+    "epochs": [
+        5
+    ],
+    "window_sizes": [
+        5
+    ],
+    "samples": [
+        0.01
+    ],
+    "ns_exponents": [
+        0.5
+    ],
+    "embedding_size": [
+        128
+    ],
+    "numbers_of_negative_samples": [
+        7
+    ]
+}
+
+

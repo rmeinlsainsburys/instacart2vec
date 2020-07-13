@@ -1,0 +1,15 @@
+name: instacart2vec
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - gensim=3.8.0
+  - matplotlib=3.2.1
+  - numpy=1.18.5
+  - pandas=1.0.4
+  - python=3.7.7
+  - scikit-learn=0.23.1
+  - scipy=1.4.1
+prefix: /Users/rico.meinl/opt/miniconda3/envs/instacart2vec
+

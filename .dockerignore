@@ -1,0 +1,15 @@
+**/data/**
+**/models/**
+**/old/**
+**/results/**
+**/visualization/**
+.ipynb_checkpoints
+__pycache__
+**/sentences/**
+**/visualization/**
+.DS_Store
+.vscode
+
+.*.ipynb
+
+setup_aws_creds.sh
