@@ -9,5 +9,3 @@ __pycache__
 **/visualization/**
 .DS_Store
 .vscode
-
-setup_aws_creds.sh
